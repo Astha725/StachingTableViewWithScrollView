@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TableViewTest-TableViewTestUITests/Pods-TableViewTest-TableViewTestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework
+${BUILT_PRODUCTS_DIR}/IBAnimatable/IBAnimatable.framework

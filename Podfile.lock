@@ -1,0 +1,20 @@
+PODS:
+  - CarbonKit (2.3.1)
+  - IBAnimatable (6.1.0)
+
+DEPENDENCIES:
+  - CarbonKit
+  - IBAnimatable
+
+SPEC REPOS:
+  trunk:
+    - CarbonKit
+    - IBAnimatable
+
+SPEC CHECKSUMS:
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+
+PODFILE CHECKSUM: c833715d3ecb277fc0e033e31fd9d935e68af25a
+
+COCOAPODS: 1.10.0
